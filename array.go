@@ -17,5 +17,6 @@ func main(){
 	}
 
 	fmt.Println(twoD)
+	fmt.Println(len(twoD))
 
 }
